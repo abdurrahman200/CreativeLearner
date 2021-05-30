@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://lwfiles.mycourse.app/stacklearner-public/08843ff4b3c9fa424c2f80e9f61a5653.png",
+    "name": "SAAS Applications",
+    "title": "Software as a service applications"
+  },
+  {
+    "id": 2,
+    "image": "https://lwfiles.mycourse.app/stacklearner-public/e9dafd9fc8d5cc13b06a427568f70118.png",
+    "name": "Server-less Technologies",
+    "title": "Aws Lambda, Microsoft Azure, Google Cloud Functions & more."
+  },
+  {
+    "id": 3,
+    "image": "https://lwfiles.mycourse.app/stacklearner-public/929d2e4f1a6c08665f506ed5c8c5f4ef.png",
+    "name": "AWS Cloud",
+    "title": "Computing,  Databases, Networking, Security, AI & more."
+  },
+  {
+    "id": 4,
+    "image": "https://lwfiles.mycourse.app/stacklearner-public/df4e23902988d966994fda24a61b972a.png",
+    "name": "Workflow Automation",
+    "title": "ProofHub, Zapier, Backlog, Gravity Flow & more."
+  }
+]

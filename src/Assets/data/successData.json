@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Thayne Pallesen",
+    "title": "Speech Pathologist",
+    "batch": "Mern-Stack 02",
+    "image": "http://dummyimage.com/169x100.png/ff4444/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 2,
+    "name": "Tomasine Golightly",
+    "title": "Programmer II",
+    "batch": "Mern-Stack 02",
+    "image": "http://dummyimage.com/161x100.png/dddddd/000000",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 3,
+    "name": "Gertruda Antcliffe",
+    "batch": "Mern-Stack 02",
+    "title": "Cost Accountant",
+    "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 4,
+    "name": "Karlotte Ivchenko",
+    "title": "Recruiter",
+    "batch": "Mern-Stack 02",
+    "image": "http://dummyimage.com/225x100.png/cc0000/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 5,
+    "name": "Lavena Gilligan",
+    "batch": "Mern-Stack 02",
+    "title": "Cost Accountant",
+    "image": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 6,
+    "name": "Teri Bartlett",
+    "batch": "Mern-Stack 02",
+    "title": "Editor",
+    "image": "http://dummyimage.com/131x100.png/cc0000/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 7,
+    "name": "Jacqui Benoiton",
+    "title": "Tax Accountant",
+    "batch": "Mern-Stack 02",
+    "image": "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 8,
+    "name": "Barrie Undrill",
+    "title": "Librarian",
+    "batch": "Mern-Stack 02",
+    "image": "http://dummyimage.com/196x100.png/dddddd/000000",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 9,
+    "name": "Grace Grigoriev",
+    "batch": "Mern-Stack 02",
+    "title": "Mechanical Systems Engineer",
+    "image": "http://dummyimage.com/125x100.png/ff4444/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 10,
+    "name": "Erinn Phillippo",
+    "batch": "Mern-Stack 02",
+    "title": "Internal Auditor",
+    "image": "http://dummyimage.com/135x100.png/5fa2dd/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 11,
+    "name": "Philis Shaw",
+    "batch": "Mern-Stack 02",
+    "title": "Senior Quality Engineer",
+    "image": "http://dummyimage.com/138x100.png/dddddd/000000",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 12,
+    "name": "Dyna Hosten",
+    "batch": "Mern-Stack 02",
+    "title": "Nurse Practicioner",
+    "image": "http://dummyimage.com/212x100.png/cc0000/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 13,
+    "name": "Melicent Hartin",
+    "batch": "Mern-Stack 02",
+    "title": "Desktop Support Technician",
+    "image": "http://dummyimage.com/133x100.png/ff4444/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 14,
+    "name": "Sherri Philipsohn",
+    "batch": "Mern-Stack 02",
+    "title": "Speech Pathologist",
+    "image": "http://dummyimage.com/228x100.png/dddddd/000000",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 15,
+    "name": "Gussi Ashplant",
+    "batch": "Mern-Stack 02",
+    "title": "Database Administrator III",
+    "image": "http://dummyimage.com/125x100.png/dddddd/000000",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 16,
+    "name": "Giustina Eakin",
+    "batch": "Mern-Stack 02",
+    "title": "Librarian",
+    "image": "http://dummyimage.com/193x100.png/ff4444/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 17,
+    "name": "Wandie Tench",
+    "batch": "Mern-Stack 02",
+    "title": "Research Associate",
+    "image": "http://dummyimage.com/211x100.png/cc0000/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 18,
+    "name": "Kennett Khotler",
+    "title": "Senior Sales Associate",
+    "batch": "Mern-Stack 02",
+    "image": "http://dummyimage.com/191x100.png/dddddd/000000",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 19,
+    "name": "Maryl Scurrer",
+    "batch": "Mern-Stack 02",
+    "title": "Business Systems Development Analyst",
+    "image": "http://dummyimage.com/215x100.png/ff4444/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  },
+  {
+    "id": 20,
+    "name": "Pamella Full",
+    "batch": "Mern-Stack 02",
+    "title": "Programmer Analyst III",
+    "image": "http://dummyimage.com/110x100.png/5fa2dd/ffffff",
+    "description": " In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. "
+  }
+]

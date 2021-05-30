@@ -1,4 +1,4 @@
-import { Card, Col, Row } from "antd";
+import { Button, Card, Col, Row } from "antd";
 import React from "react";
 import ReactPlayer from "react-player";
 
@@ -12,10 +12,16 @@ const Course = () => {
             controls={true}
             width="100"
           />
+          <Button
+            type="primary"
+            size="large"
+            block
+            style={{ margin: "2rem 0" }}
+          >
+            {" "}
+            Let's Start{" "}
+          </Button>
         </Card>
-
-        
-
       </Col>
     </Row>
   );

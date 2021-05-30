@@ -10,7 +10,7 @@ const PaymentGateway = () => {
         align="middle"
         style={{ padding: "3rem 0", textAlign: "center" }}
       >
-        <Col xs={23} sm={12} md={12} lg={6} xl={6} xxl={6}>
+        <Col xs={23} sm={12} md={12} lg={6} xl={10} xxl={6}>
           <Card title=" Payments Option">{<PaymentForm/>}</Card>
         </Col>
       </Row>

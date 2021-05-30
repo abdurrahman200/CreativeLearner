@@ -18,8 +18,7 @@ const Course = () => {
             block
             style={{ margin: "2rem 0" }}
           >
-            {" "}
-            Let's Start{" "}
+            Let's Start
           </Button>
         </Card>
       </Col>

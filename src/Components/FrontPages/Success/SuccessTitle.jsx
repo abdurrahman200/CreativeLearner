@@ -8,7 +8,7 @@ const SuccessTitle = () => {
       <div style={{ paddingTop: "6rem", textAlign: "center" }}>
         <Title level={3} style={{ fontWeight: "700" }}>
           Successful <span style={{ color: "#ff4d4f" }}> Student </span>{" "}
-          Learners
+          Learner
         </Title>
       </div>
     </div>

@@ -13,6 +13,9 @@ const Course = () => {
             width="100"
           />
         </Card>
+
+        
+
       </Col>
     </Row>
   );

@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <Header>
       <Link to="/" style={{ fontSize: "2rem", fontWeight: "500" }}>
-        <span style={{ color: "#ff4d4f" }}> Creative </span> Learners
+        <span style={{ color: "#ff4d4f" }}> Creative </span> Learner
       </Link>
       <Menu theme="dark" mode="horizontal" style={{ float: "right" }}>
         <Button type="primary" ghost style={{ margin: "0 1rem" }}>

@@ -11,7 +11,7 @@ const Footers = () => {
       <Footer style={{ backgroundColor: "rgb(11 31 69)", textAlign: "center" }}>
         <div style={{ paddingTop: "5rem", textAlign: "center", color: "#fff" }}>
           <Title level={3} style={{ color: "#FFF" }}>
-            Follow <span style={{ color: "#ff4d4f" }}> Creative </span> Learners
+            Follow <span style={{ color: "#ff4d4f" }}> Creative </span> Learner
           </Title>
           <Title
             level={5}
@@ -53,7 +53,7 @@ const Footers = () => {
           textAlign: "center",
         }}
       >
-        &copy; Copyright Creative Learners Premium Courses 2021
+        &copy; Copyright Creative Learner Premium Courses 2021
       </Footer>
       <BackTop />
     </>

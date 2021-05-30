@@ -44,8 +44,8 @@ const Resources = () => {
                 margin: "1rem",
                 backgroundColor: "transparent",
                 height: "25rem",
-               
               }}
+              key={UpcomingResource.id}
             >
               <img
                 alt={UpcomingResource.name}

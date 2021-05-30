@@ -7,7 +7,6 @@ import { LogoutOutlined } from "@ant-design/icons";
 
 const Navbar = () => {
   const auth = useAuth();
-  console.log(auth);
   const handleSignOut = () => {
     auth.signOut().then((res) => {
       window.location.pathname = "/";

@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+import Items from "./Items";
 
 const Course = () => {
-    return (
-        <div>
-            Course
-        </div>
-    )
-}
+  return (
+    <div>
+      <Items />
+    </div>
+  );
+};
 
-export default Course
+export default Course;

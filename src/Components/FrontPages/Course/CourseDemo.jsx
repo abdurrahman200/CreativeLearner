@@ -17,6 +17,8 @@ const CourseDemo = () => {
             type="primary"
             size="large"
             block
+            danger
+            shape="round"
             style={{ margin: "2rem 0" }}
           >
             <Link to="/Course"> Let's Start </Link>

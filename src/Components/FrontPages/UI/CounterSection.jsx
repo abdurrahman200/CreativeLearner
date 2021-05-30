@@ -19,12 +19,11 @@ const CounterSection = () => {
         <Col xs={24} sm={12} md={12} lg={4} xl={4} xxl={4}>
           <Statistic title="Quizes" value={"200+"} precision={2} />
         </Col>
-       
+
         <Col xs={24} sm={12} md={12} lg={4} xl={4} xxl={4}>
           <Statistic title="Assignment OR Project " value={"15+"} />
         </Col>
 
-         
         <Col xs={24} sm={12} md={12} lg={4} xl={4} xxl={4}>
           <Statistic title="Enrolled Students" value={"3K+"} />
         </Col>

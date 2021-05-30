@@ -1,10 +1,9 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyD-u8GLD-bPiSjvPgJDMFBzXMihXBDgI4k",
-  authDomain: "creative-learners-465f6.firebaseapp.com",
-  projectId: "creative-learners-465f6",
-  storageBucket: "creative-learners-465f6.appspot.com",
-  messagingSenderId: "1054266842102",
-  appId: "1:1054266842102:web:0239700159f3a68d7385d7",
+  apiKey: "AIzaSyCurEu1MIyuPiAuRAdnoiVD-fIQA5j40F0",
+  authDomain: "creativelearner-f55ec.firebaseapp.com",
+  projectId: "creativelearner-f55ec",
+  storageBucket: "creativelearner-f55ec.appspot.com",
+  messagingSenderId: "417180582143",
+  appId: "1:417180582143:web:d74c850e8ce7bbb63d4cca",
 };
-
 export default firebaseConfig;

@@ -1,12 +1,12 @@
 import React from "react";
-import Course from "./Course";
+import CourseDemo from "./CourseDemo";
 import CourseTitle from "./CourseTitle";
 
 const Courses = () => {
   return (
     <div className="Course">
       <CourseTitle />
-      <Course />
+      <CourseDemo />
     </div>
   );
 };

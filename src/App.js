@@ -12,10 +12,11 @@ import Payments from "./Components/Payments/Payments";
 import Auth, {
   AuthContextProvider,
 } from "./Components/Authentication/Auth/useAuth";
-
+import PrivateRoute from "./Components/Authentication/Auth/PrivateRoute";
 import loading from "./Assets/images/loading-app-animation.gif";
 import About from "./Components/FrontPages/About/About";
 import Success from "./Components/FrontPages/Success/Success";
+import Course from "./Components/FrontPages/Course/Course";
 
 export const UserContext = createContext();
 
@@ -29,8 +30,11 @@ function App() {
 
           <Switch>
             <Route exact path="/" component={index} />
-            <Route  path="/About" component={About} />
-            <Route  path="/Success" component={Success} />
+            <PrivateRoute path="/Course">
+              <Course />
+            </PrivateRoute>
+            <Route path="/About" component={About} />
+            <Route path="/Success" component={Success} />
             <Route path="/Payments" component={Payments} />
             <Route path="/Login" component={Login} />
             <Route path="/Register" component={Register} />

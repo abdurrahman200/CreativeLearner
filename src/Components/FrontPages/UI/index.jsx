@@ -8,6 +8,7 @@ import Resources from "./Resources";
 const index = () => {
   return (
     <div>
+      <h1>This is testing code branch</h1>
       <HeroSection />
       <Courses />
       <CounterSection />

@@ -1,21 +1,25 @@
 import { Row } from "antd";
-import React, { useEffect, useState } from "react";
-import CourseData from "../../../Assets/data/CourseData.json";
+import React from "react";
+import { useSelector } from "react-redux";
 import Item from "./Item";
 
 const Items = () => {
-  const [Courses, setCourses] = useState(CourseData);
+  const courses = useSelector((state) => {
+    return state.siteState.courseList;
+  })
 
-  useEffect(() => {
-    setCourses(Courses);
-  }, [Courses]);
-
+  // useEffect(() => {
+  //   setCourses(Courses);
+  // }, [Courses]);
+console.log(courses);
   return (
     <Row justify="center" align="middle">
-      {Courses.length === 0 && <h2>No Data</h2>}
-      {Courses.map((course) => (
+      {courses.length === 0 && <h2>No Data</h2>}
+      {
+      courses.map((course) => (
         <Item course={course} key={course.id} />
-      ))}
+      ))
+      }
     </Row>
   );
 };

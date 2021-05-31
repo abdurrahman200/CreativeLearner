@@ -1,18 +1,22 @@
 import { Button, Card, Col, Row, Typography } from "antd";
 import Meta from "antd/lib/card/Meta";
-import React, { useEffect, useState } from "react";
-import successData from "../../../Assets/data/successData.json";
+import React from "react";
+import { useSelector } from "react-redux";
 
 const { Title } = Typography;
 
 const SuccessAll = () => {
-  const [successes, setSuccessAll] = useState(successData);
+  // const [successes, setSuccessAll] = useState(successData);
+
+  const successes = useSelector((state) => {
+    return state.siteState.successList
+  })
 
   console.log(successes);
 
-  useEffect(() => {
-    setSuccessAll(successes);
-  }, [successes]);
+  // useEffect(() => {
+  //   setSuccessAll(successes);
+  // }, [successes]);
 
   return (
     <>

@@ -1,9 +1,15 @@
+import aboutsData from '../../Assets/data/aboutData.json';
+import courseData from '../../Assets/data/CourseData.json';
+import successData from '../../Assets/data/successData.json';
 import { ADD_TO_COURSE, REMOVE_FROM_COURSE } from "../Action/CourseAction";
 
+
 const initialState = {
-  courses: [],
-  products: []
+  courseList: courseData,
+  aboutList: aboutsData,
+  successList: successData
 };
+console.log(courseData);
 
 const CourseReducer = (state = initialState, action) => {
   switch (action.type) {

@@ -1,16 +1,19 @@
 import { Card, Col, Row } from "antd";
 import Meta from "antd/lib/card/Meta";
-import React, { useEffect, useState } from "react";
-import aboutData from "../../../Assets/data/aboutData.json";
+import React from "react";
+import { useSelector } from "react-redux";
 
 const AboutItems = () => {
-  const [abouts, setAboutAll] = useState(aboutData);
+  // const [abouts, setAboutAll] = useState(aboutData);
+  const abouts = useSelector((state) => {
+    return state.siteState.aboutList
+  })
 
   console.log(abouts);
 
-  useEffect(() => {
-    setAboutAll(abouts);
-  }, [abouts]);
+  // useEffect(() => {
+  //   setAboutAll(abouts);
+  // }, [abouts]);
 
   return (
     <>

@@ -8,6 +8,7 @@ import Resources from "./Resources";
 const index = () => {
   return (
     <div>
+      <h1>This is backup code</h1>
       <HeroSection />
       <Courses />
       <CounterSection />
